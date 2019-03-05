@@ -9,8 +9,8 @@ fbNoPics <- read_graph("fbNoPics.graphml", format = "graphml")
 
 # --- OPTION 2: Import from csv -----------------
 
-dat = read.csv('SocialNetPlot.csv', sep=";", stringsAsFactors = FALSE)
-mat = as.matrix(dat)
+dat <- read.csv('SocialNetPlot.csv', sep=";", stringsAsFactors = FALSE)
+mat <- as.matrix(dat)
 
 # --- Plotting -----------------
 
