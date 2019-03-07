@@ -10,7 +10,7 @@ Note: the developpement or open sourcing of analytical tools is still in process
 
 - [PolitEcho](https://politecho.org): a chrome extension that shows you the bias of your Facebook NewsFeed. A good way to estimate and corrolate data from the official GDPR data released to you by Facebook.
 
-## 2.1 Code Written
+## 1.2 Code Written
 
 - [SocialNetPlot.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/SocialNetPlot.R): Data scraped using the aforementioned Lost Circles app was converted using this script. This was then analysed further using the open source [Gephi application](https://gephi.org).
 
