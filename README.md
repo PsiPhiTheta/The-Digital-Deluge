@@ -12,7 +12,7 @@ Go through you browser history, password manager, bookmarks and social media for
 
 ### Step 1: GDPR requests
 
-Request all your data from all those companies identified in step 0 who store [Personally Indetifiable Information](https://en.wikipedia.org/wiki/Personal_information) about you. Facebook, Twitter, Telegram and others offer automated tools that you can find in your privacy settings. Others need to be contacted directly by email using a standard email request. A good place to start is [here](https://mydatarequest.com/).
+Request all your data from all those companies identified in step 0 who store [Personally Identifiable Information (PII)](https://en.wikipedia.org/wiki/Personal_information) about you. Facebook, Twitter, Telegram and others offer automated tools that you can find in your privacy settings. Others need to be contacted directly by email using a standard email request. A good place to start is [here](https://mydatarequest.com/).
 
 ### Step 2: Analyse your data
 
