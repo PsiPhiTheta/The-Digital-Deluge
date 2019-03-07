@@ -1,6 +1,8 @@
-# 1. 3rd Party Tools
+Note: the developpement or open sourcing of analytical tools is still in process. This was limitted by the tight timeframe of this paper.
 
-## 1.1 Facebook
+# 1. Facebook 
+
+## 1.1 3rd Party Tools
 
 - [Lost Circles](https://lostcircles.com/): a chrome extension that reveals the inherent structure of your facebook friendship graph.  
 
@@ -8,10 +10,8 @@
 
 - [PolitEcho](https://politecho.org): a chrome extension that shows you the bias of your Facebook NewsFeed. A good way to estimate and corrolate data from the official GDPR data released to you by Facebook.
 
-# 2. Code Written
-
-## 2.1 Facebook
+## 2.1 Code Written
 
 - [SocialNetPlot.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/SocialNetPlot.R): Data scraped using the aforementioned Lost Circles app was converted using this script. This was then analysed further using the open source [Gephi application](https://gephi.org).
 
-The developpement or open sourcing of analytical tools is still in process. This was limitted by the tight timeframe of this paper.
+
