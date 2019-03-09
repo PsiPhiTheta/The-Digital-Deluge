@@ -16,4 +16,4 @@ Request all your data from all those companies identified in step 0 who store [P
 
 ### Step 2: Analyse your data
 
-Check out the [tools folder](https://github.com/PsiPhiTheta/The-Digital-Deluge/tree/master/tools) and the associated ReadMe file for all the written code and 3rd party tools used for GDPR data analysis!  
+Check out the [tools folder](https://github.com/PsiPhiTheta/The-Digital-Deluge/tree/master/tools) and the associated ReadMe file for all the written code and 3rd party tools used for GDPR data analysis. More tools to be added at later date.
