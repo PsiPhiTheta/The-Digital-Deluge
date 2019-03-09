@@ -1,4 +1,4 @@
-Note: the developpement or open sourcing of analytical tools is still in process. This was limitted by the tight timeframe of this paper.
+Note: This is a list of the tools (both written scripts & 3rd party) used in the GDPR analysis project. Development was limitted by the tight timeframe of the project.
 
 # 1. Facebook 
 
