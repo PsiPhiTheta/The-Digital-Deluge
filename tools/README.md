@@ -12,6 +12,16 @@ Note: the developpement or open sourcing of analytical tools is still in process
 
 ## 1.2. Code Written
 
-- [SocialNetPlot.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/SocialNetPlot.R): Data scraped using the aforementioned Lost Circles app was converted using this script. This was then analysed further using the open source [Gephi application](https://gephi.org).
+- [SocialNetPlot.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Facebook/SocialNetPlot.R): an R script that converts the data scraped using the aforementioned Lost Circles app. Output then analysed further using the open source [Gephi application](https://gephi.org).
 
-# 2. Google
+# 2. Microsoft
+
+## 2.1. 3rd Party Tools
+
+None found
+
+## 2.2. Code Written
+
+- [MicrosoftLogTimeline.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Microsoft/MicrosoftLogTimeline.R): an R script that processes the ProductAndServiceUsage.json file that is returned from the Microsoft GDPR data request. Outputs a csv file that can be further analysed using plotting libraries of choice.
+
+# 3. Google
