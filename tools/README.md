@@ -36,3 +36,21 @@ None found yet
 
 # 4. Google
 
+## 4.1. 3rd Party Tools
+
+None found yet
+
+## 4.2. Code Written
+
+In progress...
+
+# 5. Telegram
+
+## 5.1. 3rd Party Tools
+
+None found yet
+
+## 5.2. Code Written
+
+- [MessageAnalysis.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Telegram/MessageAnalysis.R): an R script that processes the messages.csv file, like for linkedin, returned from the Telegram GDPR data request. Outputs an ngram model trained on cleaned data from the input. 
+
