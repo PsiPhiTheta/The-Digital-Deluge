@@ -18,10 +18,21 @@ Note: the developpement or open sourcing of analytical tools is still in process
 
 ## 2.1. 3rd Party Tools
 
-None found
+None found yet
 
 ## 2.2. Code Written
 
 - [MicrosoftLogTimeline.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Microsoft/MicrosoftLogTimeline.R): an R script that processes the ProductAndServiceUsage.json file that is returned from the Microsoft GDPR data request. Outputs a csv file that can be further analysed using plotting libraries of choice.
 
-# 3. Google
+# 3. LinkedIn
+
+## 2.1. 3rd Party Tools
+
+None found yet
+
+## 2.2. Code Written
+
+- [MessageAnalysis.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/LinkedIn/MessageAnalysis.R): an R script that processes the messages.csv file that is returned from the LinkedIn GDPR data request. Outputs an ngram model trained on cleaned data from the input. 
+
+# 4. Google
+
