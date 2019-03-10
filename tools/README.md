@@ -42,7 +42,7 @@ None found yet
 
 ## 4.2. Code Written
 
-- [LocationExplorer.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Google/LocationExplorer.R): an R script that processes the location data output by the GDPR request of Google data. Returns various maps and logging statistics. Heavily inspired from the above blog post.  
+- [LocationExplorer.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Google/LocationExplorer.R): an R script that processes the location data output by the GDPR request of Google data. Returns various maps and logging statistics. Heavily inspired by the above blog post.  
 
 # 5. Telegram
 
