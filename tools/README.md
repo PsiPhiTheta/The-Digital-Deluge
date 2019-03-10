@@ -38,11 +38,11 @@ None found yet
 
 ## 4.1. 3rd Party Tools
 
-None found yet
+- A great blog post by [Shirin Glander](https://github.com/ShirinG) available at: https://shiring.github.io/maps/2016/12/30/Standortverlauf_post
 
 ## 4.2. Code Written
 
-In progress...
+- [LocationExplorer.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Google/LocationExplorer.R): an R script that processes the location data output by the GDPR request of Google data. Returns various maps and logging statistics. Heavily inspired from the above blog post.  
 
 # 5. Telegram
 
