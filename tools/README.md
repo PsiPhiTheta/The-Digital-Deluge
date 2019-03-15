@@ -40,6 +40,9 @@ None found yet
 
 - A great blog post by [Shirin Glander](https://github.com/ShirinG) available at: https://shiring.github.io/maps/2016/12/30/Standortverlauf_post
 
+- [Noiszy](https://noiszy.com/): a great [chrome extension](https://chrome.google.com/webstore/detail/noiszy/immakaidhkcddagdjmedphlnamlcdcbg) that pseudo-randomly generates web traffic to corrupt google data return from GDPR requests (could be useful to analyse how well this can be done). In their words "Hiding from data collection isn't working. Instead, we can make our collected data less actionable by leaving misleading tracks, camouflaging our true behavior."
+
+
 ## 4.2. Code Written
 
 - [LocationExplorer.R script](https://github.com/PsiPhiTheta/The-Digital-Deluge/blob/master/tools/Google/LocationExplorer.R): an R script that processes the location data output by the GDPR request of Google data. Returns various maps and logging statistics. Heavily inspired by the above blog post.  
