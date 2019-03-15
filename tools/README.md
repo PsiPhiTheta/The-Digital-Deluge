@@ -51,7 +51,7 @@ None found yet
 
 ## 5.1. 3rd Party Tools
 
-None found yet
+- [Telegram Official GDPR bot](https://t.me/gdprbot): a telegram bot to serve you your GDPR data in a clean, machine and human readable format. 
 
 ## 5.2. Code Written
 
