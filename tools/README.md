@@ -4,7 +4,7 @@ Note: This is a list of the tools (both written scripts & 3rd party) used in the
 
 ## 1.1. 3rd Party Tools
 
-- [Lost Circles](https://lostcircles.com/): a chrome extension that reveals the inherent structure of your facebook friendship graph.  
+- [Lost Circles](https://lostcircles.com/): a chrome extension that reveals the inherent structure of your Facebook friendship graph.  
 
 - [Data Selfie](https://dataselfie.it/#/): a (now shutdown) project scrapes Facebook for data that is not present in the official GDPR data release. It then analyses it using [IBM Watson](https://console.bluemix.net/catalog/?category=ai) tools.
 
