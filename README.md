@@ -4,6 +4,8 @@ As we approach April 2019, dawn of the first anniversary of the General Data Pro
 
 Read the full paper [here](https://github.com/PsiPhiTheta/The-Digital-Deluge/paper/src.pdf). 
 
+Contributors: please add tools using pull requests or suggest them in the issues, this repo is actively maintained
+
 ## TLDR: How do I analyse my own data?
 
 ### Step 0: Find out which companies store data on you
