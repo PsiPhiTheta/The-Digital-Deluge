@@ -1,5 +1,7 @@
 Note: This is a list of the tools (both written scripts & 3rd party) used in the GDPR analysis project. Development was limitted by the tight timeframe of the project.
 
+Contributors: please add tools using pull requests or suggest them in the issues, this repo is actively maintained
+
 # 1. Facebook 
 
 ## 1.1. 3rd Party Tools
